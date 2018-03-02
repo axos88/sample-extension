@@ -12,7 +12,7 @@
     ],
     "codeUrl": "https://raw.githubusercontent.com/axos88/sample-extension/master/index.js",
     "logoUrl": "https://cdn.auth0.com/extensions/auth0-authz/assets/logo.svg",
-    "initialUrlPath": "/admins/foo"
+    "initialUrlPath": "/admins/foo",
     "repository": "https://github.com/axos88/sample-extension",
 
     "auth0": {
