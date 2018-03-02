@@ -1,14 +1,16 @@
   {
-    "title": "Sample Extension",
-    "name": "sample-extension",
+    "title": "Sample Extension Akos",
+    "name": "sample-extension-akos",
     "version": "1.0.0",
-    "author": "auth0",
-    "description": "This is a sample extension",
+    "author": "akos",
+    "description": "This is a sample extension akos",
     "type": "application",
     "repository": "https://github.com/auth0/sample-extension",
     "keywords": [
       "auth0",
       "extension"
     ],
-    "codeUrl": "https://raw.githubusercontent.com/auth0/sample-extension/master/index.js"
+    "codeUrl": "https://raw.githubusercontent.com/axos88/sample-extension/master/index.js",
+    "logoUrl": "https://cdn.auth0.com/extensions/auth0-authz/assets/logo.svg",
+    "initialUrlPath": "/admins/foo"
   }
